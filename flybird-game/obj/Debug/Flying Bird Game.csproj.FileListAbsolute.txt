@@ -1,0 +1,20 @@
+C:\Users\Mark\Desktop\Simple Flying Bird Game in C#\bin\Debug\Flying Bird Game.exe.config
+C:\Users\Mark\Desktop\Simple Flying Bird Game in C#\bin\Debug\Flying Bird Game.exe
+C:\Users\Mark\Desktop\Simple Flying Bird Game in C#\bin\Debug\Flying Bird Game.pdb
+C:\Users\Mark\Desktop\Simple Flying Bird Game in C#\obj\Debug\Flappy_Bird.FormBig.resources
+C:\Users\Mark\Desktop\Simple Flying Bird Game in C#\obj\Debug\Flying_Bird_Game.Properties.Resources.resources
+C:\Users\Mark\Desktop\Simple Flying Bird Game in C#\obj\Debug\Flying Bird Game.csproj.GenerateResource.cache
+C:\Users\Mark\Desktop\Simple Flying Bird Game in C#\obj\Debug\Flying Bird Game.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Simple Flying Bird Game in C#\obj\Debug\Flying Bird Game.exe
+C:\Users\Mark\Desktop\Simple Flying Bird Game in C#\obj\Debug\Flying Bird Game.pdb
+C:\Users\naciy\Downloads\Compressed\Simple Flying Bird Game in C#\Simple Flying Bird Game in C#\bin\Debug\Flying Bird Game.exe.config
+C:\Users\naciy\Downloads\Compressed\Simple Flying Bird Game in C#\Simple Flying Bird Game in C#\bin\Debug\Flying Bird Game.exe
+C:\Users\naciy\Downloads\Compressed\Simple Flying Bird Game in C#\Simple Flying Bird Game in C#\bin\Debug\Flying Bird Game.pdb
+C:\Users\naciy\Downloads\Compressed\Simple Flying Bird Game in C#\Simple Flying Bird Game in C#\obj\Debug\Flying Bird Game.csproj.AssemblyReference.cache
+C:\Users\naciy\Downloads\Compressed\Simple Flying Bird Game in C#\Simple Flying Bird Game in C#\obj\Debug\Flying Bird Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\naciy\Downloads\Compressed\Simple Flying Bird Game in C#\Simple Flying Bird Game in C#\obj\Debug\Flappy_Bird.FormBig.resources
+C:\Users\naciy\Downloads\Compressed\Simple Flying Bird Game in C#\Simple Flying Bird Game in C#\obj\Debug\Flying_Bird_Game.Properties.Resources.resources
+C:\Users\naciy\Downloads\Compressed\Simple Flying Bird Game in C#\Simple Flying Bird Game in C#\obj\Debug\Flying Bird Game.csproj.GenerateResource.cache
+C:\Users\naciy\Downloads\Compressed\Simple Flying Bird Game in C#\Simple Flying Bird Game in C#\obj\Debug\Flying Bird Game.csproj.CoreCompileInputs.cache
+C:\Users\naciy\Downloads\Compressed\Simple Flying Bird Game in C#\Simple Flying Bird Game in C#\obj\Debug\Flying Bird Game.exe
+C:\Users\naciy\Downloads\Compressed\Simple Flying Bird Game in C#\Simple Flying Bird Game in C#\obj\Debug\Flying Bird Game.pdb

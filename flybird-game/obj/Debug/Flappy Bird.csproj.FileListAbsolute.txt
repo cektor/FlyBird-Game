@@ -1,0 +1,20 @@
+D:\work\asp.net C#\Csharp-projects-main\Flappy Bird\bin\Debug\Flappy Bird.exe.config
+D:\work\asp.net C#\Csharp-projects-main\Flappy Bird\bin\Debug\Flappy Bird.exe
+D:\work\asp.net C#\Csharp-projects-main\Flappy Bird\bin\Debug\Flappy Bird.pdb
+D:\work\asp.net C#\Csharp-projects-main\Flappy Bird\obj\Debug\Flappy Bird.csprojAssemblyReference.cache
+D:\work\asp.net C#\Csharp-projects-main\Flappy Bird\obj\Debug\Flappy_Bird.FormBig.resources
+D:\work\asp.net C#\Csharp-projects-main\Flappy Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+D:\work\asp.net C#\Csharp-projects-main\Flappy Bird\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+D:\work\asp.net C#\Csharp-projects-main\Flappy Bird\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+D:\work\asp.net C#\Csharp-projects-main\Flappy Bird\obj\Debug\Flappy Bird.exe
+D:\work\asp.net C#\Csharp-projects-main\Flappy Bird\obj\Debug\Flappy Bird.pdb
+C:\Users\Mark\Desktop\Simple Flying Bird Game in C#\bin\Debug\Flappy Bird.exe.config
+C:\Users\Mark\Desktop\Simple Flying Bird Game in C#\bin\Debug\Flappy Bird.exe
+C:\Users\Mark\Desktop\Simple Flying Bird Game in C#\bin\Debug\Flappy Bird.pdb
+C:\Users\Mark\Desktop\Simple Flying Bird Game in C#\obj\Debug\Flappy Bird.csprojAssemblyReference.cache
+C:\Users\Mark\Desktop\Simple Flying Bird Game in C#\obj\Debug\Flappy_Bird.FormBig.resources
+C:\Users\Mark\Desktop\Simple Flying Bird Game in C#\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\Users\Mark\Desktop\Simple Flying Bird Game in C#\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+C:\Users\Mark\Desktop\Simple Flying Bird Game in C#\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Simple Flying Bird Game in C#\obj\Debug\Flappy Bird.exe
+C:\Users\Mark\Desktop\Simple Flying Bird Game in C#\obj\Debug\Flappy Bird.pdb
